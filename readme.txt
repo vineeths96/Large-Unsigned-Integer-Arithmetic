@@ -20,7 +20,8 @@ INTRODUCTION
 represented by singly linked lists.The entire program is written in three files. Comments have been added 
 frequently to help in understanding the logic behind implementation. The maximum number of operands and the size 
 of the input string expression has been limited to 5 and 100 respectively. They can be modified by varying OPMAX 
-and SMAX values in header file, if required. This program repeats indefinitely till exited manually. Refer problem statement file for detailed information.
+and SMAX values in header file, if required. This program repeats indefinitely till exited manually.
+Refer problem statement file for detailed information.
 
 
 OPERATING SYSTEM AND SOFTWARE REQUIRMENTS
