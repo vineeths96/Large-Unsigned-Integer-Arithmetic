@@ -25,7 +25,7 @@
 
 ## About The Project
 
-This program performs the arithmetic operations (addition and multiplication) on large integers represented by singly linked lists. The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The maximum number of operands and the size of the input string expression has been limited to 5 and 100 respectively. They can be modified by varying `OPMAX`  and `SMAX` values in `header.c` file, if required. This program repeats indefinitely till exited manually. Refer [Problem statement](./Problem-Statement.pdf) file for detailed information.
+This program performs the arithmetic operations (addition and multiplication) on large integers represented by singly linked lists. The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The maximum number of operands and the size of the input string expression has been limited to 5 and 100 respectively. They can be modified by varying `OPMAX`  and `SMAX` values in `header.c` file, if required. This program repeats indefinitely till exited manually. Refer [Problem statement](./Problem%20Statement.pdf) file for detailed information.
 
 ### Built With
 This project was built with 
