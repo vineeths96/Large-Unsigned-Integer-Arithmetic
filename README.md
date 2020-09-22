@@ -59,7 +59,7 @@ make
 ./a.out
 ```
 
-Enter the values from the file (or custom values) as requested during exectuion of the program.
+Enter the values from the file (or custom values) as requested during execution of the program.
 
 ### Testcases
 
