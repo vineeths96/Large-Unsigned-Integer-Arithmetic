@@ -19,7 +19,9 @@
 
 </p>
 
-> tags : compressed matrices, sparse matrix, csr, csc, coo, 
+> tags : large ints, unsigned ints, linked list, singly linked lists
+
+
 
 <!-- ABOUT THE PROJECT -->
 
