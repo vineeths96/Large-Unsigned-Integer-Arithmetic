@@ -29,6 +29,8 @@
 
 This program performs the arithmetic operations (addition and multiplication) on large integers represented by singly linked lists. The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The maximum number of operands and the size of the input string expression has been limited to 5 and 100 respectively. They can be modified by varying `OPMAX`  and `SMAX` values in `header.c` file, if required. This program repeats indefinitely till exited manually. Refer [Problem statement](./Problem%20Statement.pdf) file for detailed information.
 
+The function when executed expects the user to input a string of expression containing large integers and arithmetic operators. The large integers should be comma separated with a base of 10000 and should be terminated with a '$' sign. The arithmetic operators allowed are addition(+) and multiplication(*). The operands and operators are separated and inserted into corresponding linked lists with str_split(), get_number() and get_operator() functions. The operands and stored in an array of linked lists. The evaluate() function is called when an '=' is encountered and it performs the operations by reading one operator and two operands from the linked lists. The addition is performed by addition() and multiplication by multiplication() functions. The final result after execution is printed on screen and then the lists are deleted to free up used space. 
+
 ### Built With
 This project was built with 
 
